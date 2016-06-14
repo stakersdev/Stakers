@@ -1,0 +1,9 @@
+Building Stakers
+
+See doc/readme-qt.rst for instructions on building Stakers QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Stakers.
+
+See doc/build-*.txt for instructions on building Stakersd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Stakers.
